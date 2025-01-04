@@ -226,3 +226,10 @@ This app is dedicated to hotel booking only. It includes multiple interfaces to 
 - **Live Support:**
   - Video or voice support options.
 
+---
+
+### Notes for the Designer:
+1. Ensure responsive design for all devices.
+2. Use user-friendly, modern design practices.
+3. Include visual cues for interactions (e.g., hover effects).
+
